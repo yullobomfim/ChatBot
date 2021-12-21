@@ -1,0 +1,24 @@
+{
+    "conversations": [
+        {
+            "messages": [
+                "ola",
+                "oi",
+                "Olá"
+            ],
+            "answers": "Olá, sou o Robo de atendimento do Personalize Festas. No que posso ajudar? Me faça uma pergunta."
+        }, 
+        {
+            "messages": ["bom dia"],
+            "answers": "Bom dia, sou o Robo de atendimento do Personalize Festas. No que posso ajudar? Me faça uma pergunta."
+        }, 
+        {
+            "messages": ["boa tarde"],
+            "answers": "Boa tarde, sou o Robo de atendimento do Personalize Festas. No que posso ajudar? Me faça uma pergunta."
+        }, 
+        {
+            "messages": ["boa noite"],
+            "answers": "Boa noite, sou o Robo de atendimento do Personalize Festas. No que posso ajudar? Me faça uma pergunta."
+        }
+    ]
+}

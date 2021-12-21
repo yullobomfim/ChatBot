@@ -1,0 +1,19 @@
+{
+    "conversations": [
+        {
+            "messages": [
+                "Qual o nome de sua loja?",
+                "Como podemos de achar no google?"
+            ],
+            "answers": "Personalize festas infantis"
+        },
+        {
+            "messages": [
+                "Quais os produtos disponiveis?",
+                "Que produtos você fabrica?",
+                "Voce vende o que?"
+             ],
+            "answers": "Caixas box, porta KitCat, convites e topos de bolo"
+        }
+    ]
+}

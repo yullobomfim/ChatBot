@@ -1,0 +1,45 @@
+{
+    "conversations": [
+        {
+            "messages": [
+                "Quais as próximas datas disponiveis para a festa?",
+                "Qual a data disponivel?",
+                "Qual o dia livre?"
+            ],
+            "answers": "Temos disponiveis os dias 05, 07 e 09 de Janeiro"
+        },
+        {
+            "messages": [
+                "Quais produtos estão à venda?",
+                "Quais são os principais produtos?"
+            ],
+            "answers": "Temos caxias cone,brindes diversos e topos de bolo...Tudo exclusivo e personalizado!"
+        },
+        {
+            "messages": [
+                "Qual a agenda dos animadores de festas?",
+                "Os animadores atendem que dia?"
+            ],
+            "answers": "Os animadores atendem apenas nas sextas, sábados e domingos"
+        },
+        {
+            "messages": ["Quais os serviços estão cobertos pela contratação da empresa?"],
+            "answers": "Fornecemos animadores de festas, garçons e recepcionistas"
+        },
+        {
+            "messages": ["Quais os serviços NÃO estão cobertos pela contratação da empresa?"],
+            "answers": "Não são cobertos as ativiades de limpeza e segurança da festa"
+        },
+        {
+            "messages": [
+                "Quais as formas de pagamento?",
+                 "Como posso pagar?"
+                ],
+            "answers": "Aceitamos todos os cartões de crédito, dinheiro ou PIX"
+        },
+        {
+            "messages": ["Quais os direitos e garantias cobertos pela contratação dos serviços?"],
+            "answers": "Você tem o direito de receber os melhores serviços e garantimos a sua satisfação ou seu dinheiro de volta após o evento !"
+        }
+    ]
+}
